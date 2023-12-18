@@ -5,21 +5,21 @@
     
     
     
-    <link>https://example.org/posts/</link>
+    <link>https://thuthutka.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Dec 2023 01:38:22 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thuthutka.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Antraspuslapis</title>
-      <link>https://example.org/posts/antraspuslapis/</link>
+      <link>https://thuthutka.github.io/posts/antraspuslapis/</link>
       <pubDate>Tue, 19 Dec 2023 01:38:22 +0200</pubDate>
       
-      <guid>https://example.org/posts/antraspuslapis/</guid>
+      <guid>https://thuthutka.github.io/posts/antraspuslapis/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@ top -d 1.0 -b | grep Cpu top -d 1.0 -b | grep Mem
     
     <item>
       <title>Pradinis</title>
-      <link>https://example.org/posts/pradinis/</link>
+      <link>https://thuthutka.github.io/posts/pradinis/</link>
       <pubDate>Tue, 19 Dec 2023 01:34:48 +0200</pubDate>
       
-      <guid>https://example.org/posts/pradinis/</guid>
+      <guid>https://thuthutka.github.io/posts/pradinis/</guid>
       <description>
         
           
